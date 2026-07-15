@@ -130,7 +130,7 @@ This dashboard was developed as part of a guided learning project to strengthen 
 
 ## 📁 Project Files
 
-- 📄 Pizza Sales Dashboard.xlsx
-- 📄 Pizza Sales Dataset.xlsx
-- 🖼 Dashboard Screenshot.png
-- 📄 README.md
+- Pizza Sales Dashboard.xlsx
+- Pizza Sales Dataset.xlsx
+- Dashboard Screenshot.png
+- README.md
