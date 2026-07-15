@@ -101,11 +101,8 @@ This dashboard helps businesses to:
 
 ## 📷 Dashboard Preview
 
-> **Dashboard Screenshot**
 
-![Pizza Sales Dashboard]<img width="1406" height="777" alt="image" src="https://github.com/user-attachments/assets/397bcd5b-5d97-476d-86fb-35a0bd08ff5d" />
-
-
+<img width="1406" height="777" alt="image" src="https://github.com/user-attachments/assets/397bcd5b-5d97-476d-86fb-35a0bd08ff5d" />
 
 
 ---
